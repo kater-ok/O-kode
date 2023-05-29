@@ -1,4 +1,5 @@
-# O-kode (Тестовое задание)
+# O-сode (Тестовое задание)
+Ссылка на Google Таблицу, содержащую тестовую документацию.
 https://docs.google.com/spreadsheets/d/1wZ9ls02eynIlOXinjhdFg0gKVAeXZ7tsawbkyMsA2hU/edit?usp=sharing
 
 Отчет о проведенном тестировании приложения CALENDAR_1.1
